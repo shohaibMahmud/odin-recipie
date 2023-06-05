@@ -1,0 +1,2 @@
+# odin-recipie
+Practice project
